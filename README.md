@@ -1,1 +1,1 @@
-# PhirCernerApp testing API with cerner as aresource server.
+# PhirCernerApp testing API with cerner as a resource server.
